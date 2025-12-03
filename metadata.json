@@ -1,0 +1,5 @@
+{
+  "name": "Ruijie Voucher Force",
+  "description": "A mobile-optimized voucher testing utility with multi-thread simulation and Telegram alerts.",
+  "requestFramePermissions": []
+}
